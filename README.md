@@ -1,5 +1,10 @@
 # MakersBnB - An AirBnB Clone Project
 
+<br>
+<p align="center">
+<img width="500" alt="picture" src="https://github.com/RichEwin/Makers_BnB/blob/master/images/Screenshot%202020-06-20%20at%2012.24.55.png?raw=true">
+<br><br>
+
 ### Developers
 
 - [Nick Butler](https://github.com/nwmbutler)
